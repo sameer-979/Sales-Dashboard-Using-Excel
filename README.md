@@ -1,6 +1,6 @@
 # Sales-Dashboard-Using-Excel
 
-objective - Mehta store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+objective - Mehta store wants to create an annual sales report for 2022. So that, Mehta can understand their customers and grow more sales in 2023.
 
 
 Sample Insights
